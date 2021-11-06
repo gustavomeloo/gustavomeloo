@@ -4,6 +4,6 @@
 
 <div align="center">
   <a href="https://github.com/gustavomeloo">
-  <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=gustavomeloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="410em" src="https://github-readme-stats.vercel.app/api?username=gustavomeloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomeloo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
